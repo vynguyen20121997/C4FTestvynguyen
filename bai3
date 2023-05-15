@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+
+    <h1>User</h1>
+
+    <div class="topnav" style="display:flex;">
+
+
+        <div  class="searchusers" style=" float: left"  >    
+        <input  style="width: 200px; padding: 15px;" type="text" placeholder="Search Users" >
+        </div>
+
+        <div  class="top" style="display: flex; float: right;" >
+        <a  class="top1" style="padding: 16px">Reputation</a>
+        <a  class="top2" style="padding: 16px; background-color: #849FFF; border-radius:8px ;" >New users</a>
+        <a  class="top3" style="padding: 16px" >Voters</a>
+        <a  class="top4" style="padding: 16px">Editors</a>
+        <a  class="top5" style="padding: 16px">Moderators</a>
+        </div>
+    
+    </div>
+
+    <div class="row1" style="display: flex; padding: 20px; padding-top: 100px; justify-content:space-between;">
+
+        <span class="b1" style="padding: 24px;display: flex;"  >
+            <div class="" style="width: 97px; height:97px; border-radius: 50%; background-image: url(https://s3-alpha-sig.figma.com/img/f7ff/f537/1cfe5c1bcc03b9b81c2d7b42f5828a59?Expires=1685318400&Signature=hWKzrCnN87fv9J2RpiDIaAqB1fOVbthUo8JCWZ755nYl74OEkh0nn7qQQOCzyiSPgEvyvkX2a6ZTk3p3o3CtheL8yvDXciektm2508AVcl5QIW0zZwrFGNs2Ri-s5NObweObutLMToUVjWJCGKyeuDUzHHp-grQwQMsGiDXEnSNJ7o~35dOPHUHfXODHt3WE5dqoTcP-OJIN6f4fr2vuhHWP-yDfrnovTBHBZavGmRe5Yiwv2m2lItkD8YMvKD8F4Qb6p4fwwKUJxYfFWu-c9QTf7eLqL2JxXoF955HI1e5c8WI3xvOJLl-YSs7iTOk4gr3RAFfe0lNBhdBUBZ-nTw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+            background-size: cover; background-position: center"></div>
+            <div><h3>Lelah Nichols</h3>
+            <p>Troy, MI</p>
+            <a>clothes</a>
+            <a>stem</a>
+        </div>
+        </span>
+
+        <span class="b2" style="padding: 24px;display: flex;border-color: #BFC8E592 ;border:solid 1px;border-radius: 16%;">
+            <div class="" style=" width: 97px; height:97px; border-radius: 50%; background-image: url(https://s3-alpha-sig.figma.com/img/41ed/baf1/225faee70e15159236035178cca54a11?Expires=1685318400&Signature=GwKw4Ga0GWfX5XiqJqOy4o8z5TDKq1jWUHqWX2KAFN0Uw-VOZV1qcWvzuXW58f8P2sLJYSHpEqLDjIiIfLrXM0ME73ddbeFrjjdR5FVrEFtOVIR7jcCTL3sOMuXH0TyLDPuJim8Q0fhsLN8bl4LraY01xJ~5xt22iSHv1KvHAhzJ8sTeCjcjw~oZ5kH1vy5TE40a-uHeLC7DSrZ8kNHmJTSHtlKCi1vUm75~13fpNjUipT9OearFajGf9sKTuLjOf3Dubydd3YVIVmntKxiylSbs-xnnnTGMqOosr18UzOzO4xD2D3X2wL65fMhOSn28jTrqrOuQpMqu28LMREEX~A__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+            background-size: cover; background-position:center "></div>
+            <div><h3>Jesus Weiss</h3>
+                <p>Fort Worth, TX</p>
+                <a>headset</a>
+                <a>gadget</a> <br>
+                <a>speed</a>
+                <a>winter</a>
+        </div>
+        </span>
+        <span class="b3" style="padding: 24px;display: flex"  >
+            <div class="" style="width: 97px; height:97px; border-radius: 50%; background-image: url(https://s3-alpha-sig.figma.com/img/afd7/fd08/2942944e4e7e80e66c97c9b4491b1092?Expires=1685318400&Signature=aV0IYuV5hYYYxrDvrRTRBxOH9Ykt70wpwBED8nF8ziQgq11SOv8zqXj8fNWORkkCTn17L7I64jIQ24DQ1aXUbSAiAuQYziqk0HVZJ5FD2WaGPrBxSKkEgnfeK407vMDI75OQ~aFfoHmZbSuPVw4yM~qS309TSENG2aXQAfP9H6bi~tzwDSqEmIvZD-LR7215VNVZAjdpuvn47KD176lhPcKFWL7KsdJ3VeTlKxWc-QqYQGcVwErYaI6y4-W8u7TcaL821d7btZE1QFzneAn1QDsGKntpjLrJByDDf1XJwY4DZ44R8nQb6sQ4gq4wSzcrXtGvsniIF2GNPDdSeedcHw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+            background-size: cover; background-position:center "> </div>
+            <div><h3>Annie Rice</h3>
+            <p>Austin, TX</p>
+            <a>road</a>
+            <a>mountain</a> <a>trip</a><br>
+            <a>earth</a>
+            <a>nature</a>
+        </div>
+        </span>
+    </div>
+         
+    <div class="row2" style="display: flex; padding: 20px; justify-content:space-between ;">
+        <span class="b11" style="padding: 24px;display: flex"   >
+            <div class="" style="width: 97px; height:97px; border-radius: 50%; background-image: url(https://s3-alpha-sig.figma.com/img/c81f/faee/d7f9f9b81bb8acfe93d3b739115d770e?Expires=1685318400&Signature=XieWb5cOrMuq0Z4svt~gYeQRwKnuuRajxsVYXyhX7-OqMBFrrVxyJ2ctRgXMiKPv6pY9faDANV~xkDQxpA0M4K4pdcTBzwftBcciVwLrw9eoNU0KAW04dwpKRIJWvRHhPcpLVqAct6ySq2vyMWLw87JHA5E48J2pEsDjQZ0dB8sieyzXDYJjIpxW75-J-uCnc7CaK4Fh46xerrwusV7P6hm3yRkgNU10GE1ZWP7Gy9o53S7JRDrW1buvdkjsgdkJBtBzIHSxRx7lkWj45xSFqq~L0FLX7-ZNub5ezi6aA-psmfuwzfdWdiF57gRCAmoXeYqERACurCUYcBVdKzRi5g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+            background-size: cover; background-position:center"></div>
+            <div><h3>Robert Brower</h3>
+            <p>Cincinnati, OH</p>
+                <a>Maintenancet</a>
+                <a>gears</a> <br>
+                <a>frames</a>
+                <a>repair</a>
+        </div>
+        </span>
+        <span class="b22" style="padding: 24px;display: flex"   >
+            <div class="" style="width: 97px; height:97px; border-radius: 50%; background-image: url(https://s3-alpha-sig.figma.com/img/11b3/77e8/6aa344879afba431d7cee9da5ee62cde?Expires=1685318400&Signature=ABiPnLAxHUxX-gSLUCTRGY2J3FfZa~g9mUF88qv7Um~Gw59iUFlvn2KkWacV~9ObjYTZeuI6COCKJUtqe1bAsRhNjGJOgAMDOXbR2~GDtmAgMjXnG1MooZjga6Or1SZ7JQP6nZwihzEnO4o5h8zDmF1-M8j2Mt1CQkl-PWyJm-vgBdbwXKlM3OqxTL~o-74hPa8bk0s60thD27~ooCUrfCSOyDv~XTyQiJs6K-krvl6r8iOr6MjMZ0MCQB4KZAIzuthzgpdkFrSCOJvivmXTsPazVw3zs2MlWxSaxgWTT8n9v58jZVTEgzb2w9cWpwnSNz3esuNNSFA7z5NW5w0xSQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+            background-size: cover; background-position: center"></div>
+            <div><h3>Amy Campbell</h3>
+                <p>Warrior, AL</p>
+                <a>music</a>
+                <a>disks</a> 
+            </div>  
+        </span>
+
+        <span class="b33" style="padding: 24px;display: flex"   >
+            <div class="" style="width: 97px; height:97px; border-radius: 50%; background-image: url(https://s3-alpha-sig.figma.com/img/0507/db32/e190425c8e91ed35ab3894e77679cedd?Expires=1685318400&Signature=GHdX8SRF5mxKxXNt3mB7Gr3O~bOo996iLCUckkmiELwMasANyz1~J~MVteN4CcSTfWxMVewwpe3Gu-hZKNkMtGZWWopdavAy4zDaeaKYolYxYVy75jDQgWo44cJcVfEMZWpZRxq-Uo0-mhKiVkO3QBuwStegKkjbA~O0GwUWEvSCKFis4kmfaIl~zMU6ccl0th7COO89ebGMwDwiPPcddbod4u22ByfJWQOxsbNnreiPy5BnCiMsJWEzYDHbc0v2dpRgW4EGlF5~RAlvJSsMB369EopPU2igYdjng2T72kvoy5oSlOSw6xaDjBddqKMyeGunBTl-hrmAqZCAV5PQBQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+            background-size: cover; background-position: center "></div>
+            <div><h3>Anthony S. Morin</h3>
+            <p>Lyndhurst, NJ</p>
+            <a>vintage</a>
+            <a>electric</a>
+        </div>
+        </span>
+    </div>
+         
+</body>
+</html>
